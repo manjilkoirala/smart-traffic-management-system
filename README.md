@@ -51,15 +51,13 @@ It continuously monitors traffic conditions, analyses congestion, detects incide
 
 # 🖼 Dashboard Preview
 
-> Replace these placeholders with your screenshots.
-
 | Login | Dashboard |
 |-------|-----------|
-| ![](screenshots/login.png) | ![](screenshots/dashboard.png) |
+| ![](screenshots/login.png) | ![](screenshots/dashboard%201.png) |
 
-| AI Assistant | Analytics |
+| AI Assistant | Flow |
 |--------------|-----------|
-| ![](screenshots/chatbot.png) | ![](screenshots/analytics.png) |
+| ![](screenshots/dashboard%20AI%20chatbot%207.png) | ![](screenshots/flow%20.png) |
 
 ---
 
