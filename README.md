@@ -1,7 +1,7 @@
 # 🚦 Smart Traffic Management System
 
 <p align="center">
-  <img src="docs/banner.png" alt="Smart Traffic Banner" width="100%">
+ <img  alt="Smart Traffic Banner" width="100%" src="https://github.com/user-attachments/assets/91c20d67-6ed8-4f0c-953a-51010b629d99" />
 </p>
 
 <h1 align="center">🚦 Smart Traffic Management System</h1>
